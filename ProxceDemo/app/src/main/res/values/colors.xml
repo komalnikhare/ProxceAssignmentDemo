@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0197A6</color>
+    <color name="colorPrimaryDark">#00828F</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="gray">#4C5059</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_syne">#4DD0E4</color>
+    <color name="cyne">#00BCD5</color>
+    <color name="cyne_dark">#316972</color>
+    <color name="blue">#327ED6</color>
+    <color name="cb_errorRed">#e40000</color>
+
+</resources>

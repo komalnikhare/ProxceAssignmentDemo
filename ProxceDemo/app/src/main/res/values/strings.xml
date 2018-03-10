@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProxceDemoApp</string>
+    <string name="title_activity_home">Home</string>
+    <string name="transition_reveal1">transition_reveal1</string>
+</resources>
